@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "FAKE!FAKE!FAKE!",
+  "base_artist": "FAKE TYPE.",
+  "createdAt": "2026-04-05T06:38:34.530923Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FAKE!FAKE!FAKE!",
+      "artist": "FAKE TYPE.",
+      "has_synced": true,
+      "path": "select/01_FAKE!FAKE!FAKE!_FAKE_TYPE..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fake Fake Fake",
+      "artist": "MoStack",
+      "has_synced": false,
+      "path": "select/02_Fake_Fake_Fake_MoStack.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fake.Fake.Fake",
+      "artist": "AZKi",
+      "has_synced": true,
+      "path": "select/03_Fake.Fake.Fake_AZKi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FAKE FAKE FAKE (feat. xo sad)",
+      "artist": "Kayzo",
+      "has_synced": false,
+      "path": "select/04_FAKE_FAKE_FAKE_(feat._xo_sad)_Kayzo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "FAKE FAKE FAKE",
+      "artist": "Kayzo",
+      "has_synced": false,
+      "path": "select/05_FAKE_FAKE_FAKE_Kayzo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fake, Fake, Fake",
+      "artist": "Milyo Naryo",
+      "has_synced": true,
+      "path": "select/06_Fake,_Fake,_Fake_Milyo_Naryo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fake Fake Fake",
+      "artist": "TFLOW",
+      "has_synced": true,
+      "path": "select/07_Fake_Fake_Fake_TFLOW.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FAKE!FAKE!FAKE!",
+      "artist": "FAKE TYPE.",
+      "has_synced": false,
+      "path": "select/pl_01_FAKE!FAKE!FAKE!_FAKE_TYPE..txt"
+    }
+  ]
+}
